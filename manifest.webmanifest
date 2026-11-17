@@ -1,0 +1,26 @@
+{
+  "name": "寻哲 · 全球前沿科技情报与文献追踪",
+  "short_name": "寻哲",
+  "description": "前沿科技论文检索、中英对照阅读与全球实时热点，一站聚合开放学术资源。",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
